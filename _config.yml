@@ -10,16 +10,7 @@ url: http://54fire.github.io
 author: 54fire 
 
 
-## Global Variables
-email: "54fireljw@gmail.com"
-github: "54fire/"
-# path to: css/, fonts/, img/ and js/
-assets_path: "/assets" # i.e. "/assets" 
-statement: "Designed by DeerRIDER, All Rights Reserved"
-# default max toc levels: 1 - 6 (h1 - h6)
-toc_level: 3
-# texts randomly displayed in background
-bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
+
 
 
 head: # 删改前确定知道自己在做什么
@@ -314,3 +305,15 @@ page404:
     charset: utf-8
     homePageUrl: '/'
     homePageName: 回到我的主页
+
+
+## Global Variables
+email: "54fireljw@gmail.com"
+github: "54fire/"
+# path to: css/, fonts/, img/ and js/
+assets_path: "/assets" # i.e. "/assets" 
+statement: "Designed by DeerRIDER, All Rights Reserved"
+# default max toc levels: 1 - 6 (h1 - h6)
+toc_level: 3
+# texts randomly displayed in background
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
